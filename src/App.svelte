@@ -5,7 +5,7 @@
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1 class="py-8 px-4 border border-indigo-900 shadow-lg">Hello world!</h1>
+  <h1 class="">Hello world!</h1>
 
   <Counter />
 
